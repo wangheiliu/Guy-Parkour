@@ -25,6 +25,7 @@
   "name":"Parkour",
   "resources":[
     {"id":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},},
+    {"id":{"name":"oJumpPad","path":"objects/oJumpPad/oJumpPad.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},},
