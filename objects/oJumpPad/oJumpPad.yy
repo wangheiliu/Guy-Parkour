@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sJumpPad",
+    "path":"sprites/sJumpPad/sJumpPad.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
