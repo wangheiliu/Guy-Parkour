@@ -3,7 +3,7 @@
   "%Name":"teleporteer",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":10,
+  "bbox_left":13,
   "bbox_right":53,
   "bbox_top":25,
   "collisionKind":1,
@@ -21,8 +21,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageFolderLayer":"","%Name":"218c4201-a1b0-4f2e-a972-45c2d0d57966","blendMode":0,"displayName":"Layer Group 1","isLocked":false,"layers":[
-        {"$GMImageLayer":"","%Name":"ab7614ad-6b97-4547-9d05-b8a19ed9415a","blendMode":0,"displayName":"Layer 3","isLocked":false,"name":"ab7614ad-6b97-4547-9d05-b8a19ed9415a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-        {"$GMImageLayer":"","%Name":"aaba5e20-35a7-4677-b6d4-575165bc0e06","blendMode":0,"displayName":"default","isLocked":false,"name":"aaba5e20-35a7-4677-b6d4-575165bc0e06","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+        {"$GMImageLayer":"","%Name":"0557cafd-a6e0-4822-8698-0c08f8534ac8","blendMode":0,"displayName":"default","isLocked":false,"name":"0557cafd-a6e0-4822-8698-0c08f8534ac8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
       ],"name":"218c4201-a1b0-4f2e-a972-45c2d0d57966","opacity":100.0,"resourceType":"GMImageFolderLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"teleporteer",

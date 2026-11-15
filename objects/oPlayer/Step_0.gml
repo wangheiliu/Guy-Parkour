@@ -27,6 +27,7 @@ if (place_meeting(x,y,oJumpPad) && !hasTouchedJumpPad) {
 }
 
 x += xVelocity
+x  = clamp(x, 50, room_width - 50)
 
 yVelocity += grav
 y += yVelocity
