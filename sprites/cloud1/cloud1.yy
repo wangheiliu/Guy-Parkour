@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"background",
-    "path":"folders/background.yy",
+    "name":"Parkour",
+    "path":"Parkour.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
