@@ -16,8 +16,8 @@
     {"name":"inst_1434DBDA","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_73DB792F","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_47A67CFF","path":"rooms/Level1/Level1.yy",},
-    {"name":"inst_49D5D24A","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_1E98AD75","path":"rooms/Level1/Level1.yy",},
+    {"name":"inst_49D5D24A","path":"rooms/Level1/Level1.yy",},
   ],
   "isDnd":false,
   "layers":[
