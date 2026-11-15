@@ -10,6 +10,7 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"background","folderPath":"folders/background.yy","name":"background","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ParkourBlocks","folderPath":"folders/ParkourBlocks.yy","name":"ParkourBlocks","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"BlockObj","folderPath":"folders/ParkourBlocks/BlockObj.yy","name":"BlockObj","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"BlockSprites","folderPath":"folders/ParkourBlocks/BlockSprites.yy","name":"BlockSprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -28,6 +29,7 @@
     {"id":{"name":"oJumpPad","path":"objects/oJumpPad/oJumpPad.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"cloud1","path":"sprites/cloud1/cloud1.yy",},},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},},
     {"id":{"name":"sJumpPad","path":"sprites/sJumpPad/sJumpPad.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
