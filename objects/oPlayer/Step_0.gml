@@ -1,3 +1,5 @@
+/* movement */
+
 moveDir = keyboard_check(ord("D")) - keyboard_check(ord("A"))
 xVelocity = moveDir * playerSpeed
 
@@ -14,6 +16,14 @@ if (place_meeting(x, y + yVelocity, oGrass)) {
 
 if (place_meeting(x + xVelocity, y - 22, oGrass)) {
 	xVelocity = 0
+}
+
+if (place_meeting(x,y,oJumpPad) && !hasTouchedJumpPad) {
+	yVelocity = 0
+	yVelocity -= (jumpPower * 0.75)
+	hasTouchedJumpPad = true;
+} else {
+	hasTouchedJumpPad = false;
 }
 
 x += xVelocity
