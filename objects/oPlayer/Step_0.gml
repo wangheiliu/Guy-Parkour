@@ -26,6 +26,11 @@ if (place_meeting(x,y,oJumpPad) && !hasTouchedJumpPad) {
 	hasTouchedJumpPad = false;
 }
 
+if (y > 1024 + sprite_height) {
+	x = oSpawner.x
+	y = oSpawner.y
+}
+
 x += xVelocity
 x  = clamp(x, 50, room_width - 50)
 

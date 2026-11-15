@@ -31,9 +31,12 @@
     {"id":{"name":"oCloud","path":"objects/oCloud/oCloud.yy",},},
     {"id":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},},
     {"id":{"name":"oJumpPad","path":"objects/oJumpPad/oJumpPad.yy",},},
+    {"id":{"name":"oPlayButton","path":"objects/oPlayButton/oPlayButton.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oSpawner","path":"objects/oSpawner/oSpawner.yy",},},
     {"id":{"name":"oSun","path":"objects/oSun/oSun.yy",},},
     {"id":{"name":"oTeleporter","path":"objects/oTeleporter/oTeleporter.yy",},},
+    {"id":{"name":"GameOverScreen","path":"rooms/GameOverScreen/GameOverScreen.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"id":{"name":"LevelManager","path":"scripts/LevelManager/LevelManager.yy",},},
@@ -49,6 +52,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
+    {"roomId":{"name":"GameOverScreen","path":"rooms/GameOverScreen/GameOverScreen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

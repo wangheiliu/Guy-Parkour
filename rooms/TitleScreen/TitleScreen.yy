@@ -13,8 +13,8 @@
   ],
   "name":"TitleScreen",
   "parent":{
-    "name":"Parkour",
-    "path":"Parkour.yyp",
+    "name":"Levels",
+    "path":"folders/Levels.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
