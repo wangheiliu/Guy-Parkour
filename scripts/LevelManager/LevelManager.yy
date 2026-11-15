@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LevelManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LevelManager",
+  "parent":{
+    "name":"Mechanics",
+    "path":"folders/Mechanics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

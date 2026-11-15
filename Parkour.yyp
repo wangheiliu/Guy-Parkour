@@ -11,6 +11,8 @@
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"background","folderPath":"folders/background.yy","name":"background","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Levels","folderPath":"folders/Levels.yy","name":"Levels","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Mechanics","folderPath":"folders/Mechanics.yy","name":"Mechanics","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ParkourBlocks","folderPath":"folders/ParkourBlocks.yy","name":"ParkourBlocks","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"BlockObj","folderPath":"folders/ParkourBlocks/BlockObj.yy","name":"BlockObj","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"BlockSprites","folderPath":"folders/ParkourBlocks/BlockSprites.yy","name":"BlockSprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -25,10 +27,14 @@
   },
   "name":"Parkour",
   "resources":[
+    {"id":{"name":"oCloud","path":"objects/oCloud/oCloud.yy",},},
     {"id":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},},
     {"id":{"name":"oJumpPad","path":"objects/oJumpPad/oJumpPad.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"oSun","path":"objects/oSun/oSun.yy",},},
+    {"id":{"name":"oTeleporter","path":"objects/oTeleporter/oTeleporter.yy",},},
+    {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"id":{"name":"LevelManager","path":"scripts/LevelManager/LevelManager.yy",},},
     {"id":{"name":"cloud1","path":"sprites/cloud1/cloud1.yy",},},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},},
     {"id":{"name":"sJumpPad","path":"sprites/sJumpPad/sJumpPad.yy",},},
@@ -38,7 +44,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
