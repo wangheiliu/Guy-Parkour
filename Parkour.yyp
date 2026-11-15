@@ -33,6 +33,7 @@
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},},
     {"id":{"name":"sJumpPad","path":"sprites/sJumpPad/sJumpPad.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sun","path":"sprites/sun/sun.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
