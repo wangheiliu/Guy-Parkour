@@ -34,6 +34,7 @@
     {"id":{"name":"oSun","path":"objects/oSun/oSun.yy",},},
     {"id":{"name":"oTeleporter","path":"objects/oTeleporter/oTeleporter.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"id":{"name":"LevelManager","path":"scripts/LevelManager/LevelManager.yy",},},
     {"id":{"name":"cloud1","path":"sprites/cloud1/cloud1.yy",},},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},},
@@ -46,6 +47,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
