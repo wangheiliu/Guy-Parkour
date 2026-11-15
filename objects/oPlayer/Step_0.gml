@@ -12,6 +12,10 @@ if (place_meeting(x, y + yVelocity, oGrass)) {
 	grav = 0.5
 }
 
+if (place_meeting(x + xVelocity, y - 22, oGrass)) {
+	xVelocity = 0
+}
+
 x += xVelocity
 
 yVelocity += grav
