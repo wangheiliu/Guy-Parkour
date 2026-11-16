@@ -29,6 +29,7 @@ if (place_meeting(x,y,oJumpPad) && !hasTouchedJumpPad) {
 if (y > 1024 + sprite_height) {
 	x = oSpawner.x
 	y = oSpawner.y
+	GameOver()
 }
 
 x += xVelocity

@@ -1,0 +1,1 @@
+LevelUp(global.currentLevel)

@@ -1,6 +1,13 @@
-var currentLevel = 0
+global.currentLevel = 1
+global.roomMap = {
+	"1": Level1
+}
 
-function LevelUp() {
-	currentLevel += 1
-	room_goto(currentLevel)
+function LevelUp(level) {
+	global.currentLevel = level
+	room_goto(global.roomMap[$ string(global.currentLevel)])
+}
+
+function GameOver(){
+	room_goto(GameOverScreen)
 }
