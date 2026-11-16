@@ -5,7 +5,7 @@ if (instance == noone) {
 }
 instance.image_speed = 0;
 
-if (point_distance(oPlayer.x, oPlayer.y, instance.x, instance.y) < 7) {
+if (point_distance(oPlayer.x, oPlayer.y, instance.x, instance.y) < 15) {
 	show_debug_message("Player is near door")
 	instance.image_index = 1
 } else {

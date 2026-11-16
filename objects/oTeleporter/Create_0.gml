@@ -1,1 +1,1 @@
-levelToTeleportTo = 0
+levelToTeleportTo = 1

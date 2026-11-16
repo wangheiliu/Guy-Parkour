@@ -1,13 +1,15 @@
 global.currentLevel = 1
 global.roomMap = {
 	"1": Level1,
+	"999": WinnersRoom,
 	"MainMenu": TitleScreen,
 	"Winner": WinnersRoom
 }
 
 function LevelUp(level) {
 	global.currentLevel = level
-	room_goto(global.roomMap[$ string(global.currentLevel)])
+	var foundRoom = global.roomMap[$ string(global.currentLevel)]
+	room_goto(foundRoom)
 }
 
 function GameOver(){
