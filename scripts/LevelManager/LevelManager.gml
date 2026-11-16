@@ -1,6 +1,8 @@
 global.currentLevel = 1
 global.roomMap = {
-	"1": Level1
+	"1": Level1,
+	"MainMenu": TitleScreen,
+	"Winner": WinnersRoom
 }
 
 function LevelUp(level) {

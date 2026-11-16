@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"MainMenu",
-    "path":"folders/MainMenu.yy",
+    "path":"folders/RoomsObjects/MainMenu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

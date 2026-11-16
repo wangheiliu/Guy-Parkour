@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"GameOver",
-    "path":"folders/GameOver.yy",
+    "path":"folders/RoomsObjects/GameOver.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

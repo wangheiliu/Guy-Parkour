@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"GameOver",
-    "path":"folders/GameOver.yy",
+    "path":"folders/RoomsObjects/GameOver.yy",
   },
   "parentObjectId":null,
   "persistent":false,

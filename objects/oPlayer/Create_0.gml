@@ -1,4 +1,4 @@
-grav = 0.5
+grav = 0.75
 playerSpeed = 10
 jumpPower = 20
 
