@@ -1,1 +1,1 @@
-LevelUp(levelToTeleportTo)
+LevelUp("Winners")
